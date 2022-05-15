@@ -1,5 +1,5 @@
 
-![Logo](https://i.ibb.co/7J9FDSR/logo.png)
+![Logo](https://i.ibb.co/bsMzm3h/logo.jpg)
 
 
 # Face Mask Detector App
