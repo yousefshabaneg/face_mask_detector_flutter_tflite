@@ -27,8 +27,8 @@ https://pub.dev/packages/tflite
 ```
 
 ```bash
-image_picker: pick image from gallery
-https://pub.dev/packages/image_picker
+camera: get the streaming image buffers
+https://pub.dev/packages/camera
 ```
 
 2. Configure Project
