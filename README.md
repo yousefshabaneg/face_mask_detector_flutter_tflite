@@ -58,8 +58,8 @@ minSdkVersion 21
     - go to https://teachablemachine.withgoogle.com to train our model
     - Get Started
     - Image Project
-    - Edit `Class 1` for any Label(example `WithMask`)
-    - Edit `Class 2` for any Label(example `WithoutMask`)
+    - Edit `Class 1` for any Label(example `With_Mask`)
+    - Edit `Class 2` for any Label(example `Without_Mask`)
     - Update image from dataset download above
     - Click `Train Model`(using default config) and waiting...
     - Click `Export Model` and select `Tensorflow Lite`
@@ -74,8 +74,8 @@ minSdkVersion 21
 loadModel() async {
     Tflite.close();
     await Tflite.loadModel(
-        model: "assets/model.tflite", 
-        labels: "assets/labels.txt",
+        model: "assets/model/model.tflite", 
+        labels: "assets/model/labels.txt",
         //numThreads: 1, // defaults to 1
         //isAsset: true, // defaults: true, set to false to load resources outside assets
         //useGpuDelegate: false // defaults: false, use GPU delegate
