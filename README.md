@@ -10,7 +10,7 @@ Face Mask Detection mobile application built with Flutter and TensorFlow lite in
 
 ## :star: Features
  
-* Delect mask on the live detectoin.
+* Detect mask on the live detectoin.
 * Detect mask from a photo (camera or gallery)
 ## Installation
 
