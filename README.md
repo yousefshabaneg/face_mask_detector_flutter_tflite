@@ -204,16 +204,16 @@ Output format:
 <br>
 <table>
   <tr>
-    <td><img src="https://i.ibb.co/QbWzFsf/splash.png" width="360"></td>
-    <td><img src="https://i.ibb.co/jTTKCGF/init-state.png" width="360"></td>
+    <td><img src="assets/images/screenshots/splash.png" width="360"></td>
+    <td><img src="assets/images/screenshots/init_state.png" width="360"></td>
   </tr>
     <tr>
-    <td><img src="https://i.ibb.co/Jq26xw2/without.png" width="360"></td>
-    <td><img src="https://i.ibb.co/g95Zz8p/withmask.png" width="360"></td>
+    <td><img src="assets/images/screenshots/without.png" width="360"></td>
+    <td><img src="assets/images/screenshots/withmask.png" width="360"></td>
   </tr>
       <tr>
-    <td><img src="https://i.ibb.co/wcHdyDf/live-without.png" width="360"></td>
-    <td><img src="https://i.ibb.co/mRnNPmq/live-withmask.png" width="360"></td>
+     <td><img src="assets/images/screenshots/live_without.png" width="360"></td>
+    <td><img src="assets/images/screenshots/live_withmask.png" width="360"></td>
   </tr>
  </table>
  
